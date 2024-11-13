@@ -1,0 +1,12 @@
+/.venv
+/build
+/build-script.py
+/DirRename.py
+/duplicate-photo-handler.py
+/FileRename.py
+/like95photo.py
+/photo-duplicate-gui.py
+/photoYYMM.py
+/photo_duplicate_handler.log
+/相似照片處理工具.spec
+/重複照片處理工具.spec
